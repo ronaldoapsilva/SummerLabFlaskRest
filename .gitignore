@@ -1,0 +1,4 @@
+echo "
+.vscode/
+"  > .gitignore
+cat .gitignore
