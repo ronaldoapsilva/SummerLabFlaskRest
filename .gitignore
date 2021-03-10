@@ -1,1 +1,1 @@
-echo "config.py" >> .gitignore
+echo ".vscode/" >> .gitignore
