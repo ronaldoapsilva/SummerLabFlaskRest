@@ -1,1 +1,4 @@
-echo ".vscode/*" >> .gitignore
+echo "
+.vscode/*
+__pycache__
+" >> .gitignore
