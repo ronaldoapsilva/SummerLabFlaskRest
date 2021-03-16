@@ -1,4 +1,0 @@
-echo "
-.vscode
-__pycache__
-" >> .gitignore
