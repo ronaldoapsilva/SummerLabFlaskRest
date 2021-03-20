@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "Section5"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "venv\\Scripts\\python.exe",
+		"workbench.colorTheme": "Default Light+"
+	}
+}
