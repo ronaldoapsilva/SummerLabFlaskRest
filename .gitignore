@@ -2,5 +2,4 @@ echo "
 Section4\venv
 Section5\venv
 Section6\venv
-CFRs
 " >> .gitignore
