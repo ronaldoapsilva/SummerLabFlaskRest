@@ -1,7 +1,7 @@
 echo "
 Section5.code-workspace
 Section6.code-workspace
-Section4\venv\*
+*/venv/*
 Section5\venv\*
 Section6\venv\*
 .vscode/
